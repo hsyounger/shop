@@ -1,0 +1,1345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="admin:war exploded" />
+      <artifact name="shop:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="21f2cb27-4178-47ac-9b6b-1a05b8df7721" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/5c_80.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/MIX-80.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/adv1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/adv2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/adv3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/banner.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/banner2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/bijiben_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/bijiben_3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/bijiben_4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/check_code.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/compare.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/content/content1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/content/content2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/content/content3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/content/content4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/detail_main1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/detail_parts1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/detail_slider1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/detail_slider2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/detail_slider3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/detail_slider4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/dp/dp1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/dp/dp10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/dp/dp11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/dp/dp12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/dp/dp13.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/dp/dp14.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/dp/dp15.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/dp/dp16.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/dp/dp2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/dp/dp3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/dp/dp4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/dp/dp5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/dp/dp6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/dp/dp7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/dp/dp8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/dp/dp9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/ghs.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/gwc_xiaomi5c.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/gwc_xiaomi6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/hjh_01.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/hjh_02.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/hjh_03.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/hjh_04.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/hjh_05.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/hjh_06.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/hm4-80.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/hm4A-80.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/hm4x_80.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/hmn4x80.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/hmnote4-80.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/home1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/hongmi4x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/hongmin4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/i_arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/i_close.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/i_cmt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/i_company.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/i_protect.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/i_trust.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/icons_type.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/index_drop_box1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/index_drop_hard1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/index_drop_pad1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/index_drop_prod1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/index_drop_red1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/index_drop_router1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/index_drop_tv1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/index_price1.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/index_sidenav_bag1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/index_sidenav_earphone1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/index_sidenav_img1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/index_sidenav_notebook1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/index_sidenav_pole1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/index_sidenav_power1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/index_sidenav_protect1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/index_sidenav_rubit1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/index_sidenav_tv1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/index_sidenav_vr1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/index_slider_pic1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/index_slider_pic2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/index_slider_pic3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/index_slider_pic4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/index_slider_pic5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/liebiao_hongmin4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/liebiao_hongmin42.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/liebiao_hongmin4_dd.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/liebiao_hongmin4x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/liebiao_xiaomi5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/liebiao_xiaomi5c.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/liebiao_xiaomi5s.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/liebiao_xiaomi6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/liebiao_xiaomimix.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/liebiao_xiaomint2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/liulangengduo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/login_bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/logo-footer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/logo_foot.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/logo_top.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/main1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/mi_logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/mimobile.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/mistore_logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/peijian1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/peijian10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/peijian2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/peijian3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/peijian4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/peijian5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/peijian6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/peijian7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/peijian8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/peijian9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/pinghengche.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/pinpai1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/pinpai2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/pinpai3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/pinpai4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/pinpai5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/pj/pj1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/pj/pj2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/pj/pj3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/pj/pj4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/pj/pj5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/pj/pj6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/pj/pj7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/protect1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/realize1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/rpcp/rpcp1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/rpcp/rpcp2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/rpcp/rpcp3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/rpcp/rpcp4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/single/single1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/single/single10.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/single/single2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/single/single3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/single/single4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/single/single5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/single/single6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/single/single7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/single/single8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/single/single9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/slide-btn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/slider1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/smallambuts1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/smallparts1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/switch_uncheck.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/video/video1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/video/video2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/video/video3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/video/video4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/wntj/wntj1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/wntj/wntj10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/wntj/wntj2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/wntj/wntj3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/wntj/wntj4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/wntj/wntj5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/wntj/wntj6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/wntj/wntj7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/wntj/wntj8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/wntj/wntj9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/wx_code.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/xiaomi5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/xm5-80.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/xm5S-80.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/xm5Splus.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/xm6_80.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/xmNOTE2-80.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/xmad_14926862610682_UhkfS.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/yanzhengma.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/yyymix.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/zb/zb0.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/zb/zb1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/zb/zb2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/zb/zb3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/zb/zb4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/zb/zb5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/zb/zb6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/zb/zb7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/znyj/row2Img.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/znyj/znyj1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/znyj/znyj2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/znyj/znyj3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/znyj/znyj4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/znyj/znyj5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/znyj/znyj6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/znyj/znyj7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/image/znyj/znyj8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/.idea/artifacts/admin_war.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/.idea/artifacts/admin_war_exploded.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/.idea/artifacts/s_war.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/.idea/artifacts/s_war_exploded.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/.idea/artifacts/shop_war.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/.idea/artifacts/shop_war_exploded.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/.idea/libraries/Maven__com_alibaba_druid_1_1_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/.idea/libraries/Maven__com_alibaba_fastjson_1_2_31.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/.idea/libraries/Maven__com_oracle_ojdbc6_12_1_0_1_atlassian_hosted.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_3_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/.idea/libraries/Maven__commons_io_commons_io_2_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/.idea/libraries/Maven__javax_servlet_jsp_javax_servlet_jsp_api_2_3_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/.idea/libraries/Maven__javax_servlet_jstl_1_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/.idea/libraries/Maven__junit_junit_4_12.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_38.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/.idea/libraries/Maven__org_mybatis_mybatis_3_4_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/.idea/libraries/Maven__org_springframework_spring_aop_4_3_13_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/.idea/libraries/Maven__org_springframework_spring_beans_4_3_13_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/.idea/libraries/Maven__org_springframework_spring_context_4_3_13_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/.idea/libraries/Maven__org_springframework_spring_core_4_3_13_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/.idea/libraries/Maven__org_springframework_spring_expression_4_3_13_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/.idea/libraries/Maven__org_springframework_spring_jdbc_4_3_13_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/.idea/libraries/Maven__org_springframework_spring_tx_4_3_13_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/.idea/libraries/Maven__org_springframework_spring_web_4_3_13_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_13_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/.idea/libraries/Maven__taglibs_standard_1_1_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/admin/admin.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/admin/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/admin/src/main/webapp/WEB-INF/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/admin/src/main/webapp/index.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/shop.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/java/com/hwua/shopping/controller/MemberComtroller.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/java/com/hwua/shopping/dao/MemberMapper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/java/com/hwua/shopping/interceptor/LoginInterception.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/java/com/hwua/shopping/po/Member.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/java/com/hwua/shopping/service/MemberService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/java/com/hwua/shopping/service/impl/MemberServiceImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/resources/applicationContext.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/resources/jdbc.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/resources/log4j.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/resources/mapper/MemberMapper.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/resources/mybatis-config.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/resources/spring-mvc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/WEB-INF/views/bijiben.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/WEB-INF/views/dingdanzhongxin.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/WEB-INF/views/error.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/WEB-INF/views/gouwuche.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/WEB-INF/views/index.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/WEB-INF/views/liebiao.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/WEB-INF/views/login.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/WEB-INF/views/register.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/WEB-INF/views/self_info.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/WEB-INF/views/xiangqing.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/WEB-INF/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/common/head.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/common/header_nav.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/css/base.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/css/login.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/css/media_login.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shop/src/main/webapp/static/css/style.css" />
+    </list>
+    <ignored path="$PROJECT_DIR$/../shop/out/" />
+    <ignored path="$PROJECT_DIR$/../shop/target/" />
+    <ignored path="$PROJECT_DIR$/../shop/admin/target/" />
+    <ignored path="$PROJECT_DIR$/../shop/s/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>jstl</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../shop" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../shop/admin/src/main/webapp/index.jsp" />
+        <option value="$PROJECT_DIR$/../shop/src/main/webapp/index.jsp" />
+        <option value="$PROJECT_DIR$/../shop/admin/pom.xml" />
+        <option value="$PROJECT_DIR$/../shop/src/main/java/com/hwua/shopping/biz/UserBiz.java" />
+        <option value="$PROJECT_DIR$/../shop/src/main/java/com/hwua/shopping/biz/PrcoutctBiz.java" />
+        <option value="$PROJECT_DIR$/../shop/src/main/java/com/hwua/shopping/biz/CarBiz.java" />
+        <option value="$PROJECT_DIR$/../shop/src/main/java/com/hwua/shopping/dao/UserDao.java" />
+        <option value="$PROJECT_DIR$/../shop/src/main/java/com/hwua/shopping/dao/PrcouctDao.java" />
+        <option value="$PROJECT_DIR$/../shop/src/main/java/com/hwua/shopping/dao/CarDao.java" />
+        <option value="$PROJECT_DIR$/../shop/s/pom.xml" />
+        <option value="$PROJECT_DIR$/../shop/src/main/java/com/hwua/shopping/biz/impl/CarBizImpl.java" />
+        <option value="$PROJECT_DIR$/../shop/src/main/java/com/hwua/shopping/biz/impl/UserBizImpl.java" />
+        <option value="$PROJECT_DIR$/../shop/src/main/java/com/hwua/shopping/dao/impl/CarDaoImpl.java" />
+        <option value="$PROJECT_DIR$/../shop/src/main/java/com/hwua/shopping/dao/impl/PrcouctDaoImpl.java" />
+        <option value="$PROJECT_DIR$/../shop/src/main/java/com/hwua/shopping/dao/impl/UserDaoImpl.java" />
+        <option value="$PROJECT_DIR$/../shop/src/main/java/com/hwua/shopping/util/CommonDao.java" />
+        <option value="$PROJECT_DIR$/../shop/src/main/java/com/hwua/shopping/util/JDBCTemplate.java" />
+        <option value="$PROJECT_DIR$/../shop/src/main/java/com/hwua/shopping/servlet/ZhuxiaoServlet.java" />
+        <option value="$PROJECT_DIR$/../shop/src/main/java/com/hwua/shopping/servlet/XiangqingServlet.java" />
+        <option value="$PROJECT_DIR$/../shop/src/main/java/com/hwua/shopping/biz/impl/PrcouctBizImpl.java" />
+        <option value="$PROJECT_DIR$/../shop/src/main/java/com/hwua/shopping/servlet/ShoppingServlet.java" />
+        <option value="$PROJECT_DIR$/../shop/src/main/java/com/hwua/shopping/servlet/ShopCarServlet.java" />
+        <option value="$PROJECT_DIR$/../shop/src/main/java/com/hwua/shopping/servlet/RegistServlet.java" />
+        <option value="$PROJECT_DIR$/../shop/src/main/java/com/hwua/shopping/servlet/PrcouctServlet.java" />
+        <option value="$PROJECT_DIR$/../shop/src/main/java/com/hwua/shopping/servlet/LoginServlet.java" />
+        <option value="$PROJECT_DIR$/../shop/src/main/java/com/hwua/shopping/listener/PrcouctListener.java" />
+        <option value="$PROJECT_DIR$/../shop/src/main/webapp/common/head.jsp" />
+        <option value="$PROJECT_DIR$/../shop/pom.xml" />
+        <option value="$PROJECT_DIR$/../shop/src/main/resources/spring-mvc.xml" />
+        <option value="$PROJECT_DIR$/../shop/src/main/resources/mapper/MemberMapper.xml" />
+        <option value="$PROJECT_DIR$/../shop/src/main/java/com/hwua/shopping/interceptor/LoginInterception.java" />
+        <option value="$PROJECT_DIR$/../shop/src/main/resources/mybatis-config.xml" />
+        <option value="$PROJECT_DIR$/../shop/src/main/resources/applicationContext.xml" />
+        <option value="$PROJECT_DIR$/../shop/src/main/java/com/hwua/shopping/po/Member.java" />
+        <option value="$PROJECT_DIR$/../shop/src/main/java/com/hwua/shopping/dao/MemberMapper.java" />
+        <option value="$PROJECT_DIR$/../shop/src/main/java/com/hwua/shopping/service/MemberService.java" />
+        <option value="$PROJECT_DIR$/../shop/src/main/java/com/hwua/shopping/service/impl/MemberServiceImpl.java" />
+        <option value="$PROJECT_DIR$/../shop/src/main/java/com/hwua/shopping/controller/MemberComtroller.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="F:\apache-maven-3.5.0\repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../apache-maven-3.5.0" />
+        <option name="userSettingsFile" value="C:\Users\Lenovo\.m2\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="346" />
+    <option name="y" value="111" />
+    <option name="width" value="1211" />
+    <option name="height" value="708" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="hwua" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="hwua" type="462c0819:PsiDirectoryNode" />
+              <item name="shopping" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="hwua" type="462c0819:PsiDirectoryNode" />
+              <item name="shopping" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="hwua" type="462c0819:PsiDirectoryNode" />
+              <item name="shopping" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="hwua" type="462c0819:PsiDirectoryNode" />
+              <item name="shopping" type="462c0819:PsiDirectoryNode" />
+              <item name="po" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="hwua" type="462c0819:PsiDirectoryNode" />
+              <item name="shopping" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="hwua" type="462c0819:PsiDirectoryNode" />
+              <item name="shopping" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shop" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shop" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shop" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shop" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="hwua" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shop" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="hwua" type="462c0819:PsiDirectoryNode" />
+              <item name="shopping" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shop" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="hwua" type="462c0819:PsiDirectoryNode" />
+              <item name="shopping" type="462c0819:PsiDirectoryNode" />
+              <item name="servlet" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../xmlssm/ssm02" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\shop\src\main\webapp\WEB-INF\views" />
+      <recent name="F:\shop\src\main\webapp\static" />
+      <recent name="F:\shop\admin\src\main" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.hwua.shopping.interceptor" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\shop\src\main\resources\mapper" />
+      <recent name="F:\shop\src\main\resources" />
+      <recent name="F:\shop\src\main\webapp" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat 8.5.23">
+    <configuration name="Tomcat 8.5.23" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.23" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="admin:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/admin" />
+          </settings>
+        </artifact>
+        <artifact name="shop:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/shop" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_shop" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="11913" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="admin:war exploded" />
+          <artifact name="shop:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../shop" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="21f2cb27-4178-47ac-9b6b-1a05b8df7721" name="Default" comment="" />
+      <created>1515633660221</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1515633660221</updated>
+      <workItem from="1515633663361" duration="12105000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="12105000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293979" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25590816" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17768148" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293979" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293979" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14658849" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../shop/admin/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../shop/src/main/webapp/static/css/base.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../shop/admin/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="654">
+          <caret line="93" column="21" lean-forward="false" selection-start-line="13" selection-start-column="8" selection-end-line="93" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../shop/src/main/java/com/hwua/shopping/biz/UserBiz.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../shop/src/main/java/com/hwua/shopping/biz/CarBiz.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../shop/src/main/java/com/hwua/shopping/dao/UserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../shop/src/main/java/com/hwua/shopping/dao/PrcouctDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../shop/src/main/java/com/hwua/shopping/dao/CarDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../shop/s/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../shop/src/main/java/com/hwua/shopping/biz/impl/CarBizImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="15" column="23" lean-forward="false" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../shop/src/main/java/com/hwua/shopping/biz/impl/UserBizImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-807">
+          <caret line="13" column="26" lean-forward="true" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../shop/src/main/java/com/hwua/shopping/dao/impl/CarDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../shop/src/main/java/com/hwua/shopping/dao/impl/PrcouctDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../shop/src/main/java/com/hwua/shopping/dao/impl/UserDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="39" column="50" lean-forward="false" selection-start-line="39" selection-start-column="50" selection-end-line="39" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../shop/src/main/java/com/hwua/shopping/util/JDBCTemplate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-550">
+          <caret line="25" column="39" lean-forward="false" selection-start-line="25" selection-start-column="39" selection-end-line="25" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../shop/src/main/java/com/hwua/shopping/util/CommonDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../shop/src/main/java/com/hwua/shopping/servlet/ZhuxiaoServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="21" column="17" lean-forward="false" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../shop/src/main/java/com/hwua/shopping/servlet/XiangqingServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="71">
+          <caret line="22" column="38" lean-forward="false" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../shop/src/main/java/com/hwua/shopping/biz/PrcouctBiz.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../shop/src/main/java/com/hwua/shopping/biz/impl/PrcouctBizImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-577">
+          <caret line="9" column="51" lean-forward="false" selection-start-line="9" selection-start-column="51" selection-end-line="9" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../shop/src/main/java/com/hwua/shopping/servlet/ShoppingServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="30" column="63" lean-forward="false" selection-start-line="30" selection-start-column="63" selection-end-line="30" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../shop/src/main/java/com/hwua/shopping/servlet/RegistServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-162">
+          <caret line="19" column="106" lean-forward="false" selection-start-line="19" selection-start-column="106" selection-end-line="19" selection-end-column="106" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../shop/src/main/java/com/hwua/shopping/servlet/PrcouctServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="25" column="8" lean-forward="false" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../shop/src/main/java/com/hwua/shopping/servlet/LoginServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="40" lean-forward="false" selection-start-line="27" selection-start-column="40" selection-end-line="27" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../shop/src/main/java/com/hwua/shopping/listener/PrcouctListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="20" column="56" lean-forward="false" selection-start-line="20" selection-start-column="56" selection-end-line="20" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../shop/src/main/webapp/WEB-INF/views/bijiben.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="16" column="28" lean-forward="false" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../shop/src/main/webapp/WEB-INF/views/login.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-648">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../shop/src/main/webapp/WEB-INF/views/liebiao.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1036">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../shop/src/main/webapp/WEB-INF/views/register.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="25" column="18" lean-forward="false" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../shop/src/main/webapp/static/common/head.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="28" column="14" lean-forward="false" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../shop/src/main/java/com/hwua/shopping/servlet/ShopCarServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../shop/src/main/webapp/WEB-INF/views/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="29" lean-forward="false" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../shop/src/main/webapp/static/common/header_nav.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../shop/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="15" column="24" lean-forward="false" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../shop/src/main/java/com/hwua/shopping/interceptor/LoginInterception.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="13" column="23" lean-forward="false" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../shop/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../shop/src/main/resources/jdbc.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../shop/src/main/java/com/hwua/shopping/po/Member.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+          <folding>
+            <element signature="e#587#588#0" expanded="true" />
+            <element signature="e#613#614#0" expanded="true" />
+            <element signature="e#652#653#0" expanded="true" />
+            <element signature="e#682#683#0" expanded="true" />
+            <element signature="e#713#714#0" expanded="true" />
+            <element signature="e#740#741#0" expanded="true" />
+            <element signature="e#780#781#0" expanded="true" />
+            <element signature="e#812#813#0" expanded="true" />
+            <element signature="e#843#844#0" expanded="true" />
+            <element signature="e#870#871#0" expanded="true" />
+            <element signature="e#910#911#0" expanded="true" />
+            <element signature="e#942#943#0" expanded="true" />
+            <element signature="e#974#975#0" expanded="true" />
+            <element signature="e#1002#1003#0" expanded="true" />
+            <element signature="e#1044#1045#0" expanded="true" />
+            <element signature="e#1078#1079#0" expanded="true" />
+            <element signature="e#1109#1110#0" expanded="true" />
+            <element signature="e#1136#1137#0" expanded="true" />
+            <element signature="e#1176#1177#0" expanded="true" />
+            <element signature="e#1208#1209#0" expanded="true" />
+            <element signature="e#1241#1242#0" expanded="true" />
+            <element signature="e#1270#1271#0" expanded="true" />
+            <element signature="e#1314#1315#0" expanded="true" />
+            <element signature="e#1350#1351#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../shop/src/main/java/com/hwua/shopping/dao/MemberMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="16" lean-forward="true" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../shop/src/main/java/com/hwua/shopping/service/MemberService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../shop/src/main/java/com/hwua/shopping/service/impl/MemberServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#350#351#0" expanded="true" />
+            <element signature="e#377#378#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../shop/src/main/resources/spring-mvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="35" column="26" lean-forward="true" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../shop/src/main/resources/mybatis-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="36" lean-forward="false" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../shop/src/main/resources/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="972">
+          <caret line="36" column="32" lean-forward="true" selection-start-line="36" selection-start-column="32" selection-end-line="36" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../shop/src/main/java/com/hwua/shopping/controller/MemberComtroller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#451#452#0" expanded="true" />
+            <element signature="e#482#483#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../shop/src/main/resources/mapper/MemberMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="31" lean-forward="true" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>admin:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>admin</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.alibaba:druid:1.1.5</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
